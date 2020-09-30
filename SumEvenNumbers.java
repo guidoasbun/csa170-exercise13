@@ -9,9 +9,12 @@
 import java.util.Scanner;
 public class SumEvenNumbers{
     public static void main(String[] args){
-        Scanner input = new Scanner(System.in);
+        int result = 0;
         
-        System.out.print("Enter two integers, I'll check if one is divisible by the other: ");
-     
+        for (int i = 2; i <= 100; i += 2){
+            result += i;
+        }
+        
+        System.out.print("The sum is " + result);
     }
 }
