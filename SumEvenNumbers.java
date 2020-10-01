@@ -6,7 +6,7 @@
 *   Exercise 13
 */ 
 
-import java.util.Scanner;
+
 public class SumEvenNumbers{
     public static void main(String[] args){
         int result = 0;

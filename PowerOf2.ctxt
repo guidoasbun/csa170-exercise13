@@ -1,5 +1,5 @@
 #BlueJ class context
-comment0.target=SumEvenNumbers
+comment0.target=PowerOf2
 comment0.text=\ \n\ \ \ Guido\ Asbun\n\ \ \ CS\ A170\ \n\ \ \ 30-September-2020\ \ \ \ \ \n\ \n\ \ \ Exercise\ 13\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
